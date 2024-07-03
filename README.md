@@ -14,8 +14,8 @@ I am a front end developer with 3+ years building B2B service platform with 100k
 
 <hr>
 
-<section align="center">
-  <table>
+
+<table>
     <tbody>
       <tr>
         <td>
@@ -83,6 +83,7 @@ I am a front end developer with 3+ years building B2B service platform with 100k
 
 <hr>
 
+<section align="center">
 <span>
   <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api/top-langs/?username=shanpig&layout=compact&hide=Jupyter%20Notebook,html,css&theme=dark&border_color=8b949e">
   <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api?username=shanpig&theme=dark&hide_rank=true&border_color=8b949e&custom_title=Github%20Stats">
