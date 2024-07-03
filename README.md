@@ -15,7 +15,7 @@ I am a front end developer with 3+ years building B2B service platform with 100k
 <hr>
 
 
-<table>
+<table align="center">
     <tbody>
       <tr>
         <td>
