@@ -3,16 +3,8 @@
   You can also call me David 😸
 </h1>
 <h2 align="center" style="display: flex; align-items: center">
-  A Versatile Front End Developer
-<br><br>
-  <div style="text-align:center; width: 20%; aspect-ratio: 1;">
-     <a href="https://www.shanpig.com" target="_blank" rel="noopener noreferrer">
-      <img width="200px" src="https://github.com/shanpig/shanpig/assets/31932700/876e4c8b-e85c-4516-9b4c-579eea6de71e" >
-     </a>
-  </div>
-<br>
-   <a href="https://www.shanpig.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Shanpig.com-543DE0?style=for-the-badge&logo=sellfy&logoColor=white" alt="shanpig.com" style="height:22px;">
+  <a href="https://www.shanpig.com" target="_blank" rel="noopener noreferrer">
+    A Versatile Front End Developer
   </a>
 </h2>
 
