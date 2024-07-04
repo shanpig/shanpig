@@ -84,13 +84,12 @@ I am a front end developer with 3+ years building B2B service platform with 100k
 <hr>
 
 <section align="center">
-<span>
-  <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api/top-langs/?username=shanpig&layout=compact&hide=Jupyter%20Notebook,html,css&theme=dark&border_color=8b949e">
-  <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api?username=shanpig&theme=dark&hide_rank=true&border_color=8b949e&custom_title=Github%20Stats">
-</span>
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanpig&theme=github-compact&custom_title=Contributions">
-
+  <span>
+    <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api/top-langs/?username=shanpig&layout=compact&hide=Jupyter%20Notebook,html,css&theme=dark&border_color=8b949e&card_width=380">
+    <img height="200px" src="https://github-readme-stats-gold-six-34.vercel.app/api?username=shanpig&theme=dark&rank_icon=github&border_color=8b949e&custom_title=Github%20Stats">
+  </span>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanpig&theme=github-compact&custom_title=Contributions">
 </section>
 
 
